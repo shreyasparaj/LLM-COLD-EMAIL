@@ -2,4 +2,3 @@ groq
 streamlit
 python-dotenv
 pyperclip
-langchain
