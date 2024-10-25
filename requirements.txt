@@ -2,3 +2,4 @@ groq
 streamlit
 python-dotenv
 pyperclip
+pyperclip
