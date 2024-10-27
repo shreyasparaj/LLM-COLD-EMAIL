@@ -7,6 +7,7 @@ A cold email generator for service companies using Groq, Langchain, and Streamli
 - Input the URL of a company's careers page.
 - Extract job listings to generate personalized cold emails.
 - Include relevant portfolio links based on job descriptions.
+- Manual Edit, Save as Draft, Copy, Download features
 
 ## Usage Example
 
