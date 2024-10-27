@@ -5,3 +5,4 @@ pyperclip
 langchain
 langchain-groq
 langchain-community
+beautifulsoup4
